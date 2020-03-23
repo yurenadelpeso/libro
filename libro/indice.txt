@@ -1,6 +1,7 @@
 indice
-1-sdkcbsdjkbfdsb
-2-skjdnfdjsfjajk
-3-sh dvhjsb
+1- capítulo 1: introducción a git
+2-skjdnfdjsfjajk Capítulo2: Flujo de trabajo básico
+3- Gestión de ramas
+4- Capítulo 4: repositorios remotos
 
 MODIFICANDO MI ARCHIVO
